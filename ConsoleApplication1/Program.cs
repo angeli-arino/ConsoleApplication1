@@ -13,6 +13,7 @@ namespace ConsoleApplication1
             Console.WriteLine("Hi");
             Console.ReadKey();
 
+            Console.WriteLine("What was your favorite path?");
         }
     }
 }
